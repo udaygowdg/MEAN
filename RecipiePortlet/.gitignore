@@ -1,0 +1,9 @@
+*.swp
+.svn
+target
+.project
+.settings
+.classpath
+.vscode
+*.iml
+.idea/
